@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JanaConradi
-- 👀 I’m interested in Insights!
-- 🌱 I’m currently learning data wrangling with R.
+- 👋 Hi, I’m Jana, a molecular biologist and a dog musher in my free time
+- 👀 I’m a curious person and interested in all most everything!
+- 🌱 I’m currently switching careers from a lab monkey to data monkey :P
 - 💞️ I’m looking to collaborate on stuff I don´t know yet...
 - 📫 How to reach me https://www.linkedin.com/in/jana-conradi-32a75b140/
 
