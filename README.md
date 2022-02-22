@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jana, a molecular biologist and a dog musher in my free time
-- 👀 I’m a curious person and interested in all most everything!
+- 👋 Hi, I’m Jana, a data scientist, former biologist and a dog musher in my free time
+- 👀 I’m a curious person and love to learn!
 - 🐒  I’m currently switching careers from a lab monkey to data monkey
 - 📫 contact me on https://www.linkedin.com/in/jana-conradi-32a75b140/
 
